@@ -33,7 +33,7 @@ MOBILE
 ### Links
 
 - Solution URL: [GITHUB](https://github.com/mastertbal/SOCIAL-PROOF-SECTION)
-- Live Site URL: [LIVE LINK](https://mastertbal.github.io/PROFILE-CARD-COMPONENT//index.html)
+- Live Site URL: [LIVE LINK](https://mastertbal.github.io/SOCIAL-PROOF-SECTION//index.html)
 
 ## My process
 
